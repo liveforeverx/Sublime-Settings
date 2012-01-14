@@ -1,0 +1,42 @@
+{
+	"binary_file_patterns":
+	[
+		"*.beam",
+		"*.ez",
+		"*.bin",
+		"*.html",
+		"*.log",
+		"*LICENSE",
+		"edoc-info",
+		"*.png",
+		"*.jpg",
+		"*.gif",
+		"*.zip",
+		"*.tar.gz",
+		"*.tar.bz2",
+		"*.o",
+		"*.so",
+		"*.pdf",
+		"*.cache",
+		"*.dia",
+		"*.sublime-workspace"
+	],
+	"detect_indentation": false,
+	"file_exclude_patterns":
+	[
+		"*~",
+		".nfs*",
+		".*.swp",
+		".DS_Store",
+		"test-log/ct_run.*",
+		"test-log/variables-*"
+	],
+	"ignored_packages":
+	[
+		"Erlang"
+	],
+	"overlay_scroll_bars": "enabled",
+    "tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
