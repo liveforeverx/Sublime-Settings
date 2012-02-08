@@ -1,5 +1,6 @@
 {
-    "cmd": ["bash", "--login", "-c", "tetrapak build"],
+    "target": "run_tetrapak",
+    "task": "build check",
     "working_dir": "${project_path:${folder:${file_path}}}",
     "file_regex":"^(src/[^:]+):([0-9]+):?([0-9]+)? (.*)$",
     "selector": "source.erlang"
