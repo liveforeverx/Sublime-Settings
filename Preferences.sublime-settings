@@ -1,0 +1,50 @@
+{
+	"binary_file_patterns":
+	[
+		"*.beam",
+		"*.ez",
+		"*.bin",
+		"*.html",
+		"*.log",
+		"*LICENSE",
+		"edoc-info",
+		"*.png",
+		"*.jpg",
+		"*.gif",
+		"*.zip",
+		"*.tar.gz",
+		"*.tar.bz2",
+		"*.o",
+		"*.so",
+		"*.pdf",
+		"*.cache",
+		"*.dia",
+		"*.sublime-workspace"
+	],
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/My-Twilight.tmTheme",
+	"detect_indentation": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*~",
+		".nfs*",
+		".*.swp",
+		".DS_Store",
+		"test-log/ct_run.*",
+		"test-log/variables-*"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Erlang"
+	],
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": false,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true
+}
