@@ -34,7 +34,7 @@
 		"test-log/ct_run.*",
 		"test-log/variables-*"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -46,5 +46,6 @@
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": false,
 	"wide_caret": true
 }
