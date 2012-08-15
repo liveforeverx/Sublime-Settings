@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-io:format(user, "${1:info}: ~p~n", [${2:Variable}])${3:,}
+io:format(user, "${1:info}: ~p~n", [${2:ok}])${3:,}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>io:</tabTrigger>
