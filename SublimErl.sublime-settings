@@ -1,0 +1,12 @@
+{
+/*
+* SublimErl tries to detect automatically the paths for rebar, erl, escript and dialyzer.
+* If it doesn't succeed or you prefer to manually configure these, you can do so by inputting the paths here.
+*/
+"rebar_path": "/home/dima/elib/rebar/rebar",
+"erl_path": "/bin/erl",
+"escript_path": "/bin/escript",
+"dialyzer_path": "/bin/dialyzer"
+}
+
+

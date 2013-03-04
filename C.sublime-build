@@ -1,3 +1,4 @@
 {
-    "cmd": ["make"]
+    "cmd": ["make"],
+    "working_dir": "${project_path:${folder:${file_path}}}"
 }
